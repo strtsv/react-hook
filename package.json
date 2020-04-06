@@ -1,5 +1,8 @@
 {
   "dependencies": {
+    "kind-of": "^6.0.3",
+    "minimist": "^1.2.5",
+    "mixin-deep": "^2.0.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "^2.1.8"
