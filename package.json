@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "handlebars": "^4.7.6",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.15",
     "minimist": "^1.2.5",
