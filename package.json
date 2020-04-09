@@ -6,7 +6,8 @@
     "mixin-deep": "^2.0.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-scripts": "^2.1.8"
+    "react-scripts": "^2.1.8",
+    "set-value": "^3.0.2"
   },
   "name": "react-hook",
   "version": "1.0.0",
