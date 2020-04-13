@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "eslint-utils": "^2.0.0",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "^2.1.8",
