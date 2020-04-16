@@ -3,6 +3,7 @@
     "acorn": "^7.1.1",
     "eslint-utils": "^2.0.0",
     "handlebars": "^4.7.6",
+    "istanbul-reports": "^3.0.2",
     "js-yaml": "^3.13.1",
     "kind-of": "^6.0.3",
     "lodash": "^4.17.15",
