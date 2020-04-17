@@ -12,7 +12,7 @@
     "mixin-deep": "^2.0.1",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
-    "react-scripts": "^2.1.8",
+    "react-scripts": "^3.4.1",
     "serialize-javascript": "^3.0.0",
     "set-value": "^3.0.2"
   },
