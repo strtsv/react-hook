@@ -13,7 +13,7 @@
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "react-scripts": "^3.4.1",
-    "serialize-javascript": "^3.0.0",
+    "serialize-javascript": "^3.1.0",
     "set-value": "^3.0.2"
   },
   "name": "react-hook",
